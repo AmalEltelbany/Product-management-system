@@ -1,0 +1,2 @@
+# Product-management-system
+This is a project for course “programming techniques”. The project is about products  management that can be useful for many places like (supermarket, malls, stores,…etc). Taking supermarket as an example: “Supermarket is the place where customers come to purchase their daily using  products and pay for that. So, there is a need to calculate how many products are  sold and to generate the bill for the customer”
